@@ -14,7 +14,7 @@ public class DiseñoSoftware_E3 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("grupo1");
     //..
     }
     
