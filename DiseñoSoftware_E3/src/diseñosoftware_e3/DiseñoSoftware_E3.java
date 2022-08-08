@@ -15,6 +15,7 @@ public class DiseñoSoftware_E3 {
      */
     public static void main(String[] args) {
         System.out.println("grupo1");
+        System.out.println("grupo2");
     //..
     }
     
